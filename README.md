@@ -33,3 +33,6 @@ A game review site where users can track games they've played and share their re
 - Follow other users
 - Tags/filters for genres and platforms
 - Integration with an external game database API for auto-filled game details
+
+## Getting Started
+See [docs/quickguide.md](docs/quickguide.md) for setting up the virtual environment, running the site, and everyday commands.
